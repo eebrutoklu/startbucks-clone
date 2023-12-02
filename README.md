@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # My Awesome Project!
+=======
+# My Awesome Project
+>>>>>>> origin/main
 
 This project is aimed at providing a seamless experience for managing your music collection. The application allows easy access to your favorite songs and videos across multiple devices.
 
@@ -35,7 +39,10 @@ MyTunes is a comprehensive platform that offers seamless access to your music, v
 ## Contributing
 
 Contributions are welcome! If you want to contribute to this project, follow these steps:
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/main
 1. Fork the project.
 2. Create your feature branch: `git checkout -b feature-name`
 3. Commit your changes: `git commit -m 'Add some feature'`
