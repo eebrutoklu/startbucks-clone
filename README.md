@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # My Awesome Project!
 =======
 # My Awesome Project
@@ -26,28 +26,6 @@ MyTunes is a comprehensive platform that offers seamless access to your music, v
 - **Video Collection:** Explore a vast video collection with a focus on music-related content like Music Videos, available within My Music.
 - **Ad-Free Entertainment:** Access ad-free videos, music, and more, even offline, through the premium features of MyTunes.
 
-## Installation
-
-1. Clone the repository: `git clone https://github.com/your-username/mytunes.git`
-2. Navigate to the project directory.
-
-## Usage
-
-1. Open `index.html` in your preferred web browser.
-2. Explore the different sections: Hero, Music, About, Video, Gift Card.
-
-## Contributing
-
-Contributions are welcome! If you want to contribute to this project, follow these steps:
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/main
-1. Fork the project.
-2. Create your feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Open a pull request.
 
 ## License
 
